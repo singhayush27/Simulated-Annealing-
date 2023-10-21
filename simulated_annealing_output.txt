@@ -1,0 +1,57 @@
+Chosen Heuristic: Total Manhattan distance: 
+Start State : 
+412
+750
+863
+Goal State : 
+123
+456
+780
+Cooling Function : Linear Function 
+TMAX : 30
+This heuristic is admissible!
+Total Number of state explored : 10
+Search Status : Successful 
+(sub) optimal Path length: 9 
+Sub Optimal Path 
+412
+750
+863
+ v
+412
+753
+860
+ v
+412
+753
+806
+ v
+412
+753
+086
+ v
+412
+053
+786
+ v
+012
+453
+786
+ v
+102
+453
+786
+ v
+120
+453
+786
+ v
+123
+450
+786
+ v
+123
+456
+780
+ v
+Time Taken : 0:00:00.022939 
